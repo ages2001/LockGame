@@ -1,6 +1,6 @@
 # Lock Game with Python3
 
-Lock is a strategy game played with 2 players. The playing field is 8X8 in size and consists of 64 squares.
+Lock Game is a strategy game played with 2 players. The playing field is 8X8 in size and consists of 64 squares.
 consists of. Both players have 8 pieces each. The aim of the game is to reduce the number of opponent's pieces below 2.
 At the start of the game, players place their pieces on the squares in the row closest to them. More
 players then take turns to move one of their own pieces to try to lock the opponent's pieces.
